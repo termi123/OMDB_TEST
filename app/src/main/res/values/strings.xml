@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Film list</string>
+    <string name="no_movie_found">No movie found!</string>
+    <string name="keyword_error">Keyword at least 4 characters!</string>
+    <string name="keyword_enter">Enter keyword!</string>
+    <string name="something_when_wrong">Something went wrong!</string>
+    <string name="no_network">No Internet Connection!</string>
+</resources>
